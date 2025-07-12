@@ -24,3 +24,4 @@ A sleek, responsive real-time chat application built using **HTML, CSS, JavaScri
 ---
 
 ## 📸 Screenshot
+<img width="1919" height="859" alt="Screenshot 2025-06-27 133150" src="https://github.com/user-attachments/assets/e0955dd2-1209-4faf-acf3-0387d4185399" />
